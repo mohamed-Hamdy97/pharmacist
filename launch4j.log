@@ -1,0 +1,14 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Negroo\Desktop\pharmacist\negroo.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Negroo\Desktop\pharmacist\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	bin\jre1.8.0_181
+Check launcher:	C:\Users\Negroo\Desktop\pharmacist\bin\jre1.8.0_181\bin\javaw.exe (OK)
+Launcher:	C:\Users\Negroo\Desktop\pharmacist\bin\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Negroo\Desktop\pharmacist\negroo.exe"
+Args length:	52/32768 chars
+Exit code:	0
